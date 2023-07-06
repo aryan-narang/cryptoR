@@ -13,11 +13,11 @@ The website is also connected to API. By using API, the website can provide user
 » Coingecko API<br>
 » Bootstrap
 
-<h2>Screenshots of the Project 📸</h2>
+<h2 align='center'>Screenshots of the Project 📸</h2>
 <br>
-<h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
 <img src='cryptor.png'/>
-
+<br>
+<img src='cryptor2.png'/>
 </div>
