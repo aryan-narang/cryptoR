@@ -15,12 +15,10 @@ The website is also connected to API. By using API, the website can provide user
 
 <h2 align='center'>Screenshots of the Project 📸</h2>
 <br>
-<br>
-<hr>
-<br>
-<br>
 <div align='center'>
 <img src='cryptor.png'/>
+<br>
+<hr>
 <br>
 <img src='cryptor2.png'/>
 </div>
